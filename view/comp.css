@@ -1,0 +1,30 @@
+.boutonPlusMoins a {
+     padding:20px; 
+     font-family:Arial, Helvetica, sans-serif;
+     background-color: rgb(90, 49, 167);
+     border-radius: 30px;
+     cursor:pointer; 
+}
+
+.boutonPlusMoins{
+    padding:100px; 
+    border: solid black 3px;
+    display:inline-flex;  
+}
+
+
+
+.image{
+
+    height:30%;
+    width:100%; 
+}
+
+.art{
+
+    border: solid black 4px;
+    min-height: 500px;
+    padding:20px;  
+     
+
+}
